@@ -1,0 +1,274 @@
+repo_name: Nikunj47/DBMS--Digital-muisc-Library
+report_id: f895d30bea17da58137fbf3a7b0acf9f
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-03T03:29:22+00:00'
+requested_by: Nikunj47
+provider: github
+branch: master
+detected_tools_count: 20
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library
+  detection_source: Repo Metadata
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  version: 5.10.2
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: "@fortawesome/fontawesome-free"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
+  version: 5.10.2
+  license: CC-BY-4.0,OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17170/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.26.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: gulp-autoprefixer
+  description: Prefix CSS
+  package_url: https://www.npmjs.com/gulp-autoprefixer
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16090/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: gulp-clean-css
+  description: Minify css with clean-css
+  package_url: https://www.npmjs.com/gulp-clean-css
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16301/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: gulp-header
+  description: Gulp extension to add header to file
+  package_url: https://www.npmjs.com/gulp-header
+  version: 2.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16259/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: gulp-plumber
+  description: Prevent pipe breaking caused by errors from gulp plugins
+  package_url: https://www.npmjs.com/gulp-plumber
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16033/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: gulp-sass
+  description: Gulp plugin for sass
+  package_url: https://www.npmjs.com/gulp-sass
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16002/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: gulp-uglify
+  description: Minify files with UglifyJS
+  package_url: https://www.npmjs.com/gulp-uglify
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
+- name: merge-stream
+  description: Create a stream that emits events from multiple other streams
+  package_url: https://www.npmjs.com/merge-stream
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16419/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/Nikunj47/DBMS--Digital-muisc-Library/blob/master/template/package-lock.json
+  detection_source: template/package.json
+  last_updated_by: Smit Patel
+  last_updated_on: 2019-10-21 09:58:40.000000000 Z
